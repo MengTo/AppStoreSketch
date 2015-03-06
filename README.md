@@ -42,6 +42,11 @@ The results are previewed directly in the document, making it easy to see if you
 
 --
 
+### App Icon Template
+I included an App Icon template that you can use for exporting to all the resolutions using a single Artboard.
+
+--
+
 ### High-Res Wallpapers
 I'm also sharing 14 HD wallpapers. Big enough for the Macbook Pro Retina. Check the Wallpapers folder.
 
