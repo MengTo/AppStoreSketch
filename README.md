@@ -47,7 +47,12 @@ I'm also sharing 14 HD wallpapers. Big enough for the Macbook Pro Retina. Check 
 
 -- 
 
-### More Info
+### Tutorials
+Sketch and Xcode tutorials: http://designcode.io
+
+--
+
+### Info
 You can use all the resources any way you'd like.
 
 Feel free to send me feedback on Twitter: [@MengTo](http://twitter.com/mengto)
