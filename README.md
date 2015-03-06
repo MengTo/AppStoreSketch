@@ -1,4 +1,4 @@
-## App Store Template
+## App Store Template for Sketch
 ### Instructions
 Quickly set up your Sketch file and export screens for the iPhone 4, 5, 6 and 6 Plus for the App Store.
 ![](http://cl.ly/image/2V2M1N1g0e45/Screen%20Shot%202015-03-07%20at%2012.11.02%20AM.png)
