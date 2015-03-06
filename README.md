@@ -40,6 +40,11 @@ The text has a canvas area, which makes it easy to change it to single or multip
 The results are previewed directly in the document, making it easy to see if you did something wrong. Plus, it is encouraged to edit the final screens to give more individuality.
 ![](http://cl.ly/image/1e0H2h1X3g3B/Screen-Shot-2015-03-07-at-12.00.31-AM.jpg)
 
+--
+
+### High-Res Wallpapers
+I'm also sharing 14 HD wallpapers. Big enough for the Macbook Pro Retina. Check the Wallpapers folder.
+
 -- 
 
 ### More Info
